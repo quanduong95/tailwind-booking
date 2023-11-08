@@ -1,9 +1,27 @@
-# React + Vite
+# React + Vite + Tailwind App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple static React application utilizing Vite for build optimization and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# tailwind-booking-app
+This application demonstrates the use of React, a modern JavaScript library for building user interfaces, along with Vite as the build tool offering fast server start and HMR (Hot Module Replacement). Tailwind CSS is used for styling, allowing for rapid UI development with utility classes.
+
+## Live Demo
+
+Check out the live demo here: [Tailwind Booking](https://tailwind-booking.vercel.app/)
+
+## Installation and Setup Instructions
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+Change directory to the app
+```bash
+cd tailwind-booking
+```
+Start the server
+```bash
+npm run dev
+```
+
